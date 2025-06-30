@@ -1,3 +1,15 @@
+
+# program file
+![program file](currentwifipass.py)
+
+# program code 
+![program code](WIFI PASSWORD CHECKER CODE.png)
+
+# sample output 1
+![sample output](output1.png)
+# sample output 2
+![executed output](output2.png)
+
 ## About Wi-Fi Password Checker
 
 The **Wi-Fi Password Checker** is a simple Python script designed to help users retrieve the **Wi-Fi password** of the network they are currently connected to. 
