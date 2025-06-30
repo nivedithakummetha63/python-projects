@@ -2,9 +2,6 @@
 # program file
 ![program file](currentwifipass.py)
 
-# program code 
-![program code](WIFI PASSWORD CHECKER CODE.png)
-
 # sample output 1
 ![sample output](output1.png)
 # sample output 2
