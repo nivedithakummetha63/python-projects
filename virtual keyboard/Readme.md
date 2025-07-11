@@ -13,8 +13,8 @@ The user can type by moving their hand in front of a webcam and selecting keys t
   * Space (`SP`), Clear Last Character (`CL`), and Layout Toggle (`APR`).
 * Simulates keystrokes on your system using **pynput**.
 
-  # DEMO 
-![DEMO](virtualKeyboard Demo.mp4)
+# program code 
+![program code](virtualKeyboard Demo.mp4)
 
 ## 🛠️ Requirements
 * Python 3.x
